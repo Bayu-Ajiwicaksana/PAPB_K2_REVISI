@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359269283906",
+    "project_id": "papb-k2-revisi",
+    "storage_bucket": "papb-k2-revisi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359269283906:android:1b030ea63f2778b63e55db",
+        "android_client_info": {
+          "package_name": "com.example.papb_k2_revisi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJUxC7-7nNH4cD38JGiZaf2XoRMgQnBOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
